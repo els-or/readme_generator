@@ -38,7 +38,7 @@ function renderLicenseSection(license) {
     return ''
   } else {
     return `## License
-    ${renderLicenseLink(license)}`
+${renderLicenseLink(license)}`
   }
 }
 
@@ -67,7 +67,7 @@ ${data.test}
 ${renderLicenseSection(data.license)}
 ## Questions
 If you have questions you can reach me at the following.
-GitHub: [${data.github}](https://wwww.github.com/${data.github})
+GitHub: [${data.github}](https://www.github.com/${data.github})
 Email: ${data.email}
 `;
 }

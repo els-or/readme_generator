@@ -9,18 +9,19 @@
 * [Questions](#questions)
 
 ## Description
-Simple readme template generator using NodeJS.
+Generate simple readme files from template.
 ## Installation
-From your terminal type git clone git@github.com:els-or/readme_generator.git. Then run npm install	.
+Run `npm install`
 ## Usage
-Use this whenever you need to create a quick and easy quality readme.
+![Demo Video](demo.gif)
+Run `npm start`
 ## Contributors
-Rachel Sutton, BootCampSpot
+Rachel Sutton
 ## Tests
-Run npm test.
+Run `npm test`
 ## License
-    [License: MIT](https://opensource.org/licenses/MIT)
+[License: MIT](https://opensource.org/licenses/MIT)
 ## Questions
 If you have questions you can reach me at the following.
-GitHub: [Els-or](https://wwww.github.com/Els-or)
+GitHub: [els-or](https://www.github.com/els-or)
 Email: raesak@gmail.com
